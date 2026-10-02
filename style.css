@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Surf Sauce";
+    src: url("./SurfSauce.woff2") format("woff2");
+    font-display: swap;
+}
+
+.surf-sauce {
+    font-family: "Surf Sauce", cursive;
+}
+
